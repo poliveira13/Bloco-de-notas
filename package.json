@@ -1,0 +1,16 @@
+{
+  "name": "bloco-de-notas",
+  "version": "1.0.0",
+  "description": "Exercicio bloco de notas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priscila Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "validator": "^12.1.0",
+    "yargs": "^15.0.2"
+  }
+}
